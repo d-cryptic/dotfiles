@@ -1,0 +1,8 @@
+**/.DS_Store
+nvim/plugin/*
+configstore/*
+ranger/*
+sanity/*
+workshopper/*
+yarn/*
+zed/*
