@@ -1,0 +1,30 @@
+return {
+  automatic_enable = true,
+  ensure_installed = {
+    "astro",
+    "ansiblels",
+    "bashls",
+    "buf_ls",
+    "css_variables",
+    "cssmodules_ls",
+    "lua_ls",
+    "dockerls",
+    "docker_compose_language_service",
+    "rust_analyzer",
+    "eslint",
+    "gh_actions_ls",
+    "helm_ls",
+    "html",
+    "jsonls",
+    "markdown_oxide",
+    "nginx_language_server",
+    "ruff",
+    "somesass_ls",
+    "systemd_ls",
+    "tailwindcss",
+    "terraformls",
+    "ts_ls",
+    "yamlls"
+
+  },
+}
