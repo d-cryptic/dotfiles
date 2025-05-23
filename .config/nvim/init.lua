@@ -98,3 +98,12 @@ require "configs.incline"
 -- require'navigator'.setup()
 require("configs.ssh")
 require("nvim-tree").setup(require("configs.nvimtree"))
+require('ufo').setup({
+  provider_selector = function(bufnr, filetype, buftype)
+    return ''
+  end
+})
+-- require("notify").setup({
+--   timeout = 500,
+--   stages = "static"
+-- })

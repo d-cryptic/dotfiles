@@ -57,9 +57,9 @@ M.capabilities.textDocument.completion.completionItem = {
 }
 
 M.capabilities.textDocument.foldingRange = {
-      dynamicRegistration = false,
-      lineFoldingOnly = true,
-    }
+  dynamicRegistration = false,
+  lineFoldingOnly = true,
+}
 
 M.defaults = function()
   -- dofile(vim.g.base46_cache .. "lsp")

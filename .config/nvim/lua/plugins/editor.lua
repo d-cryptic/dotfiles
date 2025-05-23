@@ -76,8 +76,39 @@ return {
   {
     "folke/noice.nvim",
     event = "VeryLazy",
+    cond = true,
     opts = {
-      -- add any options here
+
+      presets = {
+        bottom_search = false,
+        long_message_to_split = true,
+        command_palette = false,
+      },
+
+      cmdline = {
+        enabled = true,
+        view = "cmdline_popup",
+      },
+
+      messages = {
+        enabled = true,
+        commands = {
+          history = {
+            -- options for the message history that you get with `:Noice`
+            view = "split",
+          },
+          -- :Noice last
+          last = {
+            view = "popup",
+          },
+          -- :Noice errors
+          errors = {
+            -- options for the message history that you get with `:Noice`
+            view = "popup",
+          },
+        },
+      },
+
     },
     dependencies = {
       -- if you lazy-load any plugin below, make sure to add proper `module="..."` entries
@@ -85,7 +116,16 @@ return {
       -- OPTIONAL:
       --   `nvim-notify` is only needed, if you want to use the notification view.
       --   If not available, we use `mini` as the fallback
-      "rcarriga/nvim-notify",
+      {
+        "rcarriga/nvim-notify",
+        opts = {
+          render = "minimal", -- default, compact, minimal, simple
+          stages = "static",  -- fade, fade_in_slide_out, slide, static
+          -- background_colour = "#000000",
+          timeout = 1000,
+          top_down = true,
+        },
+      },
     }
   },
   {
