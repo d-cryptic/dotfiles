@@ -1,9 +1,9 @@
 local opt = vim.opt -- wrapper
-local o = vim.o -- global options
-local g = vim.g -- global variables
+local o = vim.o     -- global options
+local g = vim.g     -- global variables
 
 -------------------------------------- options ------------------------------------------
-o.laststatus = 3 -- show single status line
+o.laststatus = 3   -- show single status line
 o.showmode = false --don't show insert, normal, etc in command area
 -- o.modifiable = false
 
@@ -31,19 +31,19 @@ o.smartcase = true
 o.mouse = "a"
 
 -- Numbers
-o.number = true -- enable line number
+o.number = true   -- enable line number
 o.numberwidth = 2 -- set colume width for numbers to 2
-o.ruler = false -- disable ruler (shows cursor position in command area)
+o.ruler = false   -- disable ruler (shows cursor position in command area)
 o.relativenumber = true
 
 -- disable nvim intro
 opt.shortmess:append "sI" -- skip neovim intro message
 
-o.signcolumn = "yes" -- always show sign colum
-o.splitbelow = true -- new horizontal splits go below, vertical splits go to right
+o.signcolumn = "yes"      -- always show sign colum
+o.splitbelow = true       -- new horizontal splits go below, vertical splits go to right
 o.splitright = true
-o.timeoutlen = 400 -- key sequence timeout
-o.undofile = true -- persistent undo history
+o.timeoutlen = 400        -- key sequence timeout
+o.undofile = true         -- persistent undo history
 
 -- interval for writing swap file to disk, also used by gitsigns
 o.updatetime = 250
@@ -52,7 +52,7 @@ o.updatetime = 250
 -- when cursor reaches end/beginning of line
 opt.whichwrap:append "<>[]hl"
 
--- disable some default providers - diasbles builtin language providers to reduce startup time if not used
+-- disable some default providers - disables builtin language providers to reduce startup time if not used
 g.loaded_node_provider = 0
 g.loaded_python3_provider = 0
 g.loaded_perl_provider = 0
@@ -64,3 +64,7 @@ local is_windows = vim.fn.has "win32" ~= 0
 local sep = is_windows and "\\" or "/"
 local delim = is_windows and ";" or ":"
 vim.env.PATH = table.concat({ vim.fn.stdpath "data", "mason", "bin" }, sep) .. delim .. vim.env.PATH
+
+
+-- set lsp log level
+vim.lsp.set_log_level("off") -- "trace", "debug", "info", "warn", "error", "off"

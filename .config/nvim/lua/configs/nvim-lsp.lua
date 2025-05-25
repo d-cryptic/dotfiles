@@ -68,6 +68,16 @@ M.defaults = function()
   vim.api.nvim_create_autocmd("LspAttach", {
     callback = function(args)
       M.on_attach(_, args.buf)
+
+      -- Add the new logic for registering the buffer
+      -- cacher.async_check("config", function()
+      --   cacher.register_buffer(
+      --     args.buf,
+      --     {
+      --       n_query = 10,
+      --     }
+      --   )
+      -- end, nil)
     end,
   })
 

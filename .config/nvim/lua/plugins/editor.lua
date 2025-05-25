@@ -122,7 +122,7 @@ return {
           render = "minimal", -- default, compact, minimal, simple
           stages = "static",  -- fade, fade_in_slide_out, slide, static
           -- background_colour = "#000000",
-          timeout = 1000,
+          timeout = 2000,
           top_down = true,
         },
       },
@@ -251,7 +251,8 @@ return {
   },
   {
     "tpope/vim-repeat",
-  }
+  },
+  { 'kosayoda/nvim-lightbulb' }
   -- { 'echasnovski/mini.nvim', version = '*' },
   -- { 'echasnovski/mini.indentscope', version = '*' },
 }
