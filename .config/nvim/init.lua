@@ -97,7 +97,6 @@ require "configs.incline"
 -- require("toggleterm").setup{}
 -- require'navigator'.setup()
 require("configs.ssh")
--- require("configs.nvimtree")
 -- require("nvim-tree").setup(require("configs.nvimtree"))
 require('ufo').setup({
   provider_selector = function(bufnr, filetype, buftype)

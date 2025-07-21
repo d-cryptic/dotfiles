@@ -1,9 +1,12 @@
 -- dofile(vim.g.theme_cache .. "nvimtree")
 
 return {
-  require("nvim-tree").setup({
-    opts = {},
-    filters = { dotfiles = false, git_ignored = false }, -- don't hide dotfiles
+    filters = {
+    dotfiles = false,     -- Show dotfiles (files starting with .)
+    git_ignored = false,  -- Show git ignored files
+    git_clean = false,    -- Show git clean files
+    custom = {},          -- No custom filters
+  },
     disable_netrw = true,
     hijack_cursor = true,
     sync_root_with_cwd = true,
@@ -33,5 +36,4 @@ return {
         },
       },
     },
-  }),
 }
