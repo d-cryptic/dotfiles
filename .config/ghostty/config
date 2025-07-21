@@ -1,0 +1,49 @@
+# themes - look
+theme = tokyonight-storm
+font-feature                   = calt
+font-feature                   = liga
+font-feature                   = ss13
+
+font-size                      = 15
+window-inherit-font-size       = true
+
+# look and feel
+adjust-cursor-thickness        = 1
+adjust-underline-position      = 3
+#bold-is-bright                 = true
+#cursor-invert-fg-bg            = true
+cursor-opacity                 = 0.5
+background-opacity = 0.9
+link-url                       = true
+mouse-hide-while-typing        = true
+window-vsync                   = true
+
+clipboard-paste-protection     = false
+clipboard-trim-trailing-spaces = true
+copy-on-select                 = false
+macos-auto-secure-input        = true
+macos-secure-input-indication  = true
+quit-after-last-window-closed  = true
+scrollback-limit               = 4200
+shell-integration              = zsh
+shell-integration-features     = cursor,sudo,title
+
+
+
+# Key bindings
+keybind                        = ctrl+h=goto_split:left
+keybind                        = ctrl+j=goto_split:bottom
+keybind                        = ctrl+k=goto_split:top
+keybind                        = ctrl+l=goto_split:right
+keybind                        = ctrl+shift+h=new_split:left
+keybind                        = ctrl+shift+j=new_split:down
+keybind                        = ctrl+shift+k=new_split:up
+keybind                        = ctrl+shift+l=new_split:right
+keybind                        = super+shift+enter=new_split:auto
+keybind                        = super+shift+i=inspector:toggle
+keybind                        = super+shift+r=reload_config
+keybind                        = super+t=new_tab
+
+# updates
+auto-update = check
+auto-update-channel = stable
