@@ -1,0 +1,387 @@
+{
+  "main": {
+    "id": "aca5fb3c86887b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "78b09510b73b9fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1b1a574eb644c8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Day 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Interview Prep/Sad Servers/Day 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Day 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":365,\"ch\":157},\"to\":{\"line\":365,\"ch\":157}},\"scroll\":352.5950330162352}"
+                },
+                {
+                  "title": "Work done",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Resume/Work done.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Work done\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":120,\"ch\":12},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "03. Fault Tolerance",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Distributed Systems/thinking in distributed systems book/03. Fault Tolerance.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03. Fault Tolerance\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":126,\"ch\":92},\"to\":{\"line\":126,\"ch\":92}},\"scroll\":118.92903225088554}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Interview Prep/Bash/Linux upskill challenge.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linux upskill challenge"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dfce7ab805b0332",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f19179cb3c695d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6ced88fbd1cafa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1d326b64c7b6a21",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ".excali",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "835e8f737400c9a5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "94a2ef659d5f642b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 470.01103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "43532303d901604c",
+    "type": "split",
+    "children": [
+      {
+        "id": "63735970eeb50e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6cdf960cb7ecb0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b76af531d1a21efb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "889fcbe87f9af591",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Trips/Jagannath Puri.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Jagannath Puri"
+            }
+          },
+          {
+            "id": "e1bfeeec19f35a12",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "58f7ee68578fc086",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily-notes/2025/April/04-Fri.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 04-Fri"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 754.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "slides-extended:Show slide preview": false,
+      "omnisearch:Omnisearch": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "dbfolder:Create a new database table": false,
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "2c1b1a574eb644c8",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
+  "lastOpenFiles": [
+    "Learn/Udemy/Fundamentals of Network Engineering.md",
+    "Learn/Udemy/attachments/SourceCodeExamples.zip",
+    "Learn/Udemy/attachments/IP-TCP-UDP-TLS+Slides.odp",
+    "Learn/Udemy/attachments/IP-TCP-UDP-TLS+Slides.pptx",
+    "Learn/Udemy/attachments/SNI.pptx",
+    "Learn/Udemy/attachments/DNS-Slides.odp",
+    "Learn/Udemy/attachments/DNS-Slides.pptx",
+    "Learn/Udemy/attachments/Fundamentals+of+Networking+Engineering.odp",
+    "Learn/Udemy/attachments/Fundamentals+of+Networking+Engineering.pptx",
+    "Learn/Udemy/attachments/Sockets,+Connections+and+Queues.pptx",
+    "Learn/Udemy/attachments/Sockets,+Connections+and+Queues.odp",
+    "Personal/Distributed Systems/thinking in distributed systems book/Untitled.md",
+    "Personal/Interview Prep/Bash/Linux upskill challenge.md",
+    "Personal/Interview Prep/Sad Servers/Day 1.md",
+    "Personal/Resume/Work done.md",
+    "Personal/Distributed Systems/thinking in distributed systems book/03. Fault Tolerance.md",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/thinking-in-layers.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/failure-classification.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/failure-handling.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/ecommerce-process.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/process.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/service-orchestration.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/failure-tolerance.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/state-and-transitions.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/01. Introduction.md",
+    "Personal/Distributed Systems/thinking in distributed systems book/02. System models, order and time.md",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/lamport-clocks.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/attachments/clock-drift.png",
+    "Personal/Distributed Systems/thinking in distributed systems book/00. Thinking in Distributed Systems.md",
+    "Personal/Distributed Systems/thinking in distributed systems book/00. Preface.md",
+    "Personal/Distributed Systems/Old/02. Distributed Systems and Computer networking.md",
+    "Personal/Distributed Systems/Old/01. Introduction.md",
+    "Personal/Talks/CNCF Hyderabad 28th June 2025.md",
+    "Personal/Vibe Coding/Claude Code/Remotion Claude.md.md",
+    "one2n/ravenmail/LLama Model Deployment.md",
+    "one2n/ravenmail/Increase rootvolu.md",
+    "one2n/ravenmail/Clickhouse.md",
+    "one2n/ravenmail/Typosquatting.md",
+    "one2n/ravenmail/keycloak config.md",
+    "one2n/ravenmail/cloudflare warp.md",
+    "one2n/ravenmail/Cloudwatch Agents.md",
+    "Personal/Ravenmail interviw.md",
+    "one2n/ravenmail/Go.md",
+    "one2n/ravenmail/Resources.md",
+    "one2n/ravenmail/Sagemaker Inferentia.md",
+    "Products/One2N Hackathon/03. Flow.canvas",
+    "Personal/Monthly Targets/Untitled.canvas",
+    "Personal/2025/Goals.canvas",
+    "Misc/Untitled.canvas",
+    "Misc/Untitled 1.canvas",
+    "Misc/Untitled 2.canvas",
+    "one2n/ravenmail/Architecture Diagrams/Untitled.canvas"
+  ]
+}

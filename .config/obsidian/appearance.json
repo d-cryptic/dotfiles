@@ -1,0 +1,9 @@
+{
+  "theme": "system",
+  "cssTheme": "Catppuccin",
+  "accentColor": "#5cf5a6",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "showRibbon": true
+}
