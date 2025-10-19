@@ -1,6 +1,6 @@
 .env
 .DS_Store
-.config/tmux/plugins
+.config/tmux/
 .config/tmux/sessions
 .config/nats
 .config/raycast
