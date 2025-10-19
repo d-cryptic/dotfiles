@@ -34,13 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Learn": "🧑‍🎓",
-  "Personal": "🤳",
-  "Personal Blogs": "🕸",
-  "POCs": "LiHammer",
-  "Products": "LiBrain",
-  "OSS": "LiGitMerge",
   "one2n": "🏢",
   "one2n/ravenmail": "🦅",
-  "Excalidraw": "LiPenTool"
+  "Personal Stuffs/Learn": "🧑‍🎓",
+  "Personal Stuffs/Excalidraw": "LiPenTool",
+  "Personal Stuffs/OSS": "LiGitMerge",
+  "Personal Stuffs/Personal": "🤳",
+  "Personal Stuffs/POCs": "LiHammer",
+  "Personal Stuffs/Products": "LiBrain",
+  "Personal Stuffs/Personal Blogs": "🕸"
 }

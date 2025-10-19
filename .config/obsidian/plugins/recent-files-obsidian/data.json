@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux upskill challenge",
-      "path": "Personal/Interview Prep/Bash/Linux upskill challenge.md"
+      "basename": "Base14",
+      "path": "Personal Stuffs/Personal/Interview/Base14.md"
     },
     {
-      "basename": "Fundamentals of Network Engineering",
-      "path": "Learn/Udemy/Fundamentals of Network Engineering.md"
+      "basename": "What to ask?",
+      "path": "Personal Stuffs/Personal/Interview/What to ask?.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Personal/Distributed Systems/thinking in distributed systems book/Untitled.md"
+      "basename": "Headout",
+      "path": "Personal Stuffs/Personal/Interview/Headout.md"
     },
     {
-      "basename": "Day 1",
-      "path": "Personal/Interview Prep/Sad Servers/Day 1.md"
+      "basename": "Core Arch",
+      "path": "Personal Stuffs/Personal/Interview Prep/K8s/Core Arch.md"
     },
     {
-      "basename": "Work done",
-      "path": "Personal/Resume/Work done.md"
+      "basename": "Autoscaling",
+      "path": "Personal Stuffs/Personal/Interview Prep/K8s/Autoscaling.md"
     },
     {
-      "basename": "03. Fault Tolerance",
-      "path": "Personal/Distributed Systems/thinking in distributed systems book/03. Fault Tolerance.md"
+      "basename": "pod to pod",
+      "path": "Personal Stuffs/Personal/Interview Prep/K8s/pod to pod.md"
     },
     {
-      "basename": "01. Introduction",
-      "path": "Personal/Distributed Systems/thinking in distributed systems book/01. Introduction.md"
+      "basename": "K8s networking",
+      "path": "Personal Stuffs/Personal/Interview Prep/K8s/K8s networking.md"
     },
     {
-      "basename": "02. System models, order and time",
-      "path": "Personal/Distributed Systems/thinking in distributed systems book/02. System models, order and time.md"
+      "basename": "Network Troubleshooting",
+      "path": "Personal Stuffs/Personal/Interview Prep/K8s/Network Troubleshooting.md"
     },
     {
-      "basename": "00. Thinking in Distributed Systems",
-      "path": "Personal/Distributed Systems/thinking in distributed systems book/00. Thinking in Distributed Systems.md"
+      "basename": "Node communitation",
+      "path": "Personal Stuffs/Personal/Interview Prep/K8s/Node communitation.md"
     },
     {
-      "basename": "00. Preface",
-      "path": "Personal/Distributed Systems/thinking in distributed systems book/00. Preface.md"
+      "basename": "Pod Creation",
+      "path": "Personal Stuffs/Personal/Interview Prep/K8s/Pod Creation.md"
     },
     {
-      "basename": "02. Distributed Systems and Computer networking",
-      "path": "Personal/Distributed Systems/Old/02. Distributed Systems and Computer networking.md"
+      "basename": "kubeproxy",
+      "path": "Personal Stuffs/Personal/Interview Prep/K8s/kubeproxy.md"
     },
     {
-      "basename": "01. Introduction",
-      "path": "Personal/Distributed Systems/Old/01. Introduction.md"
+      "basename": "cockroach-cyod",
+      "path": "Personal Stuffs/Personal/Interview/attachments/cockroach-cyod.excalidraw"
     },
     {
-      "basename": "CNCF Hyderabad 28th June 2025",
-      "path": "Personal/Talks/CNCF Hyderabad 28th June 2025.md"
+      "basename": "Linkrunner-20250904141745744",
+      "path": "Personal Stuffs/Personal/Interview/attachments/Linkrunner-20250904141745744.webp"
     },
     {
-      "basename": "Remotion Claude.md",
-      "path": "Personal/Vibe Coding/Claude Code/Remotion Claude.md.md"
+      "basename": "Aptitude Example Booklet_2021 V1",
+      "path": "Personal Stuffs/Personal/Interview/attachments/Aptitude Example Booklet_2021 V1.pdf"
     },
     {
-      "basename": "LLama Model Deployment",
-      "path": "one2n/ravenmail/LLama Model Deployment.md"
+      "basename": "Canonical-Written-Assignment",
+      "path": "Personal Stuffs/Personal/Interview/attachments/Canonical-Written-Assignment.pdf"
     },
     {
-      "basename": "Increase rootvolu",
-      "path": "one2n/ravenmail/Increase rootvolu.md"
+      "basename": "realfast - parking lot problem statement",
+      "path": "Personal Stuffs/Personal/Interview/attachments/realfast - parking lot problem statement.pdf"
     },
     {
-      "basename": "Clickhouse",
-      "path": "one2n/ravenmail/Clickhouse.md"
+      "basename": "Emergent-20251008183801163",
+      "path": "Personal Stuffs/Personal/Interview/attachments/Emergent-20251008183801163.webp"
     },
     {
-      "basename": "Typosquatting",
-      "path": "one2n/ravenmail/Typosquatting.md"
+      "basename": "LinkrunnerPrep.excalidraw",
+      "path": "Personal Stuffs/Personal/Interview/LinkrunnerPrep.excalidraw.md"
     },
     {
-      "basename": "keycloak config",
-      "path": "one2n/ravenmail/keycloak config.md"
+      "basename": "Linkrunner",
+      "path": "Personal Stuffs/Personal/Interview/Linkrunner.md"
     },
     {
-      "basename": "cloudflare warp",
-      "path": "one2n/ravenmail/cloudflare warp.md"
+      "basename": "Amo",
+      "path": "Personal Stuffs/Personal/Interview/Amo.md"
     },
     {
-      "basename": "Cloudwatch Agents",
-      "path": "one2n/ravenmail/Cloudwatch Agents.md"
+      "basename": "Multiplier",
+      "path": "Personal Stuffs/Personal/Interview/Multiplier.md"
     },
     {
-      "basename": "Ravenmail interviw",
-      "path": "Personal/Ravenmail interviw.md"
+      "basename": "Abnormal AI",
+      "path": "Personal Stuffs/Personal/Interview/Abnormal AI.md"
     },
     {
-      "basename": "Go",
-      "path": "one2n/ravenmail/Go.md"
+      "basename": "SuperJoin AI",
+      "path": "Personal Stuffs/Personal/Interview/SuperJoin AI.md"
     },
     {
-      "basename": "Resources",
-      "path": "one2n/ravenmail/Resources.md"
+      "basename": "n8n prompts",
+      "path": "Personal Stuffs/Personal/100x/prompts/n8n prompts.md"
     },
     {
-      "basename": "Sagemaker Inferentia",
-      "path": "one2n/ravenmail/Sagemaker Inferentia.md"
+      "basename": "04. Web 3",
+      "path": "Personal Stuffs/Personal/100x/04. Web 3.md"
     },
     {
-      "basename": "Book",
-      "path": "one2n/ravenmail/Book.md"
+      "basename": "AI Coding Checklist",
+      "path": "Personal Stuffs/Personal/Interview/AI Coding Checklist.md"
     },
     {
-      "basename": "Paladin AI",
-      "path": "Products/One2N Hackathon/Paladin AI.md"
+      "basename": "Untitled 1",
+      "path": "Personal Stuffs/Personal/Untitled 1.md"
     },
     {
-      "basename": "optimum commands",
-      "path": "one2n/ravenmail/optimum commands.md"
+      "basename": "3. Command Line Murders",
+      "path": "Personal Stuffs/SadServers/3. Command Line Murders.md"
+    },
+    {
+      "basename": "Olake",
+      "path": "Personal Stuffs/OSS/Olake.md"
+    },
+    {
+      "basename": "One2N",
+      "path": "Personal Stuffs/Personal/Interview/One2N.md"
+    },
+    {
+      "basename": "2. Sakatoon",
+      "path": "Personal Stuffs/SadServers/2. Sakatoon.md"
+    },
+    {
+      "basename": "1. Saint John",
+      "path": "Personal Stuffs/SadServers/1. Saint John.md"
+    },
+    {
+      "basename": "Emergent",
+      "path": "Personal Stuffs/Personal/Interview/Emergent.md"
+    },
+    {
+      "basename": "05. Lovable",
+      "path": "Personal Stuffs/Personal/100x/05. Lovable.md"
+    },
+    {
+      "basename": "Project Discovery",
+      "path": "Personal Stuffs/Personal/Interview/Project Discovery.md"
+    },
+    {
+      "basename": "Cockroach",
+      "path": "Personal Stuffs/Personal/Interview/Cockroach.md"
+    },
+    {
+      "basename": "Karnot",
+      "path": "Personal Stuffs/Personal/Interview/Karnot.md"
+    },
+    {
+      "basename": "RealFast",
+      "path": "Personal Stuffs/Personal/Interview/RealFast.md"
+    },
+    {
+      "basename": "03. n8n",
+      "path": "Personal Stuffs/Personal/100x/03. n8n.md"
+    },
+    {
+      "basename": "Exit",
+      "path": "one2n/Exit.md"
+    },
+    {
+      "basename": "08. Opentelemetry Collector",
+      "path": "Personal Stuffs/POCs/Clickstack/Clickhouse Docs/08. Opentelemetry Collector.md"
+    },
+    {
+      "basename": "02. Webhook Configuration",
+      "path": "Personal Stuffs/POCs/Clickstack/Clickhouse Docs/attachments/02. Webhook Configuration.png"
+    },
+    {
+      "basename": "08. Opentelemetry Collector",
+      "path": "Personal Stuffs/POCs/Clickstack/Clickhouse Docs/attachments/08. Opentelemetry Collector.png"
     },
     {
       "basename": "Daily Targets",
-      "path": "Daily Targets.md"
+      "path": "Personal Stuffs/Daily Targets.md"
     },
     {
-      "basename": "Pythons Limitations",
-      "path": "Learn/Python/Pythons Limitations.md"
+      "basename": "Discussion - Harsh",
+      "path": "one2n/idp/Discussion - Harsh.md"
     },
     {
-      "basename": "Things to learn",
-      "path": "Learn/Python/Things to learn.md"
+      "basename": "Untitled",
+      "path": "one2n/Resources/Untitled.md"
     },
     {
-      "basename": "Buildable in python",
-      "path": "Learn/Python/Buildable in python.md"
+      "basename": "trie.excalidraw",
+      "path": "MediaNet/fulltime/Excalidraw/trie.excalidraw.md"
     },
     {
-      "basename": "Python Internals",
-      "path": "Learn/Python/Python Internals.md"
+      "basename": "C++ Advanced",
+      "path": "MediaNet/fulltime/Personal/tle-eliminators/TLE1/C++ Advanced.md"
     },
     {
-      "basename": "Functional Programming and best practices",
-      "path": "Learn/Python/Functional Programming and best practices.md"
+      "basename": "Obsidian Plugins",
+      "path": "MediaNet/fulltime/Personal/Ideas/Obsidian Plugins.md"
     },
     {
-      "basename": "Pushing the Boundaries, An In-Depth Analysis of Python's Most Challenging Application Domains and Solutions",
-      "path": "Learn/Python/Pushing the Boundaries, An In-Depth Analysis of Python's Most Challenging Application Domains and Solutions.md"
-    },
-    {
-      "basename": "Brainstorming with LLMS",
-      "path": "Learn/Python/Brainstorming with LLMS.md"
-    },
-    {
-      "basename": "Inspiration",
-      "path": "Products/N8n/Inspiration.md"
-    },
-    {
-      "basename": "Our Idea - Shoshin AI",
-      "path": "Products/N8n/Our Idea - Shoshin AI.md"
-    },
-    {
-      "basename": "Original N8n",
-      "path": "Products/N8n/Original N8n.md"
-    },
-    {
-      "basename": "01. Pre Intro",
-      "path": "Learn/Empowered Programmer/01. Pre Intro.md"
-    },
-    {
-      "basename": "02. Research Paper Reading",
-      "path": "Learn/Empowered Programmer/02. Research Paper Reading.md"
-    },
-    {
-      "basename": "pprof",
-      "path": "Learn/Go/pprof.md"
-    },
-    {
-      "basename": "Worktree",
-      "path": "Learn/Git/Worktree.md"
-    },
-    {
-      "basename": "Amazon RDS DB instance storage",
-      "path": "ReadItLater Inbox/Amazon RDS DB instance storage.md"
-    },
-    {
-      "basename": "Ragflow",
-      "path": "Learn/Genai/RAG/Ragflow.md"
-    },
-    {
-      "basename": "GraphRAG",
-      "path": "Learn/Genai/RAG/GraphRAG.md"
-    },
-    {
-      "basename": "LightRAG",
-      "path": "Learn/Genai/RAG/LightRAG.md"
-    },
-    {
-      "basename": "Prompt Engineering",
-      "path": "Learn/Genai/RAG/Prompt Engineering.md"
-    },
-    {
-      "basename": "Other Repos",
-      "path": "Learn/Genai/RAG/Other Repos.md"
-    },
-    {
-      "basename": "Start here",
-      "path": "Learn/Genai/RAG/Start here.md"
+      "basename": "01. Resources",
+      "path": "MediaNet/fulltime/Personal/Golang/LoadBalancer/01. Resources.md"
     }
   ],
   "omittedPaths": [],

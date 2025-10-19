@@ -15,5 +15,14 @@
       "key": "/"
     }
   ],
-  "editor:open-search-replace": []
+  "editor:open-search-replace": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ]
 }

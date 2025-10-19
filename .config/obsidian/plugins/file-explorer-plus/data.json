@@ -108,6 +108,27 @@
         "type": "FILES",
         "pattern": "Daily Targets.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Personal/Interview/What to ask?.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Personal/Interview/Untitled.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Personal Stuffs/Personal/Interview/What to ask?.md",
+        "patternType": "STRICT"
       }
     ]
   },

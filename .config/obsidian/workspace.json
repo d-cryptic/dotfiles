@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78b09510b73b9fbc",
+        "id": "516d042db77db3ad",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1b1a574eb644c8",
+            "id": "80b5f7147c335c7e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,31 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Day 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Interview Prep/Sad Servers/Day 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Day 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":365,\"ch\":157},\"to\":{\"line\":365,\"ch\":157}},\"scroll\":352.5950330162352}"
-                },
-                {
-                  "title": "Work done",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Resume/Work done.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Work done\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":120,\"ch\":12},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "03. Fault Tolerance",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Distributed Systems/thinking in distributed systems book/03. Fault Tolerance.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03. Fault Tolerance\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":126,\"ch\":92},\"to\":{\"line\":126,\"ch\":92}},\"scroll\":118.92903225088554}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Interview Prep/Bash/Linux upskill challenge.md",
+                "file": "Personal Stuffs/Personal/Interview/Base14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,7 +37,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux upskill challenge"
+              "title": "Base14"
+            }
+          },
+          {
+            "id": "b3aed82b12659fdd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Stuffs/Personal/Interview/What to ask?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What to ask?"
             }
           }
         ]
@@ -108,10 +123,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".excali",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -161,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.01103591918945,
-    "collapsed": true
+    "width": 402
   },
   "right": {
     "id": "43532303d901604c",
@@ -303,6 +317,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "slides-extended:Show slide preview": false,
       "omnisearch:Omnisearch": false,
       "oz-clear-unused-images:Clear Unused Images": false,
@@ -323,65 +338,69 @@
       "dbfolder:Create a new database table": false,
       "media-extended:Open media": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "remotely-save:Remotely Save": false,
+      "float-search:Search obsidian in modal view": false,
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "2c1b1a574eb644c8",
+  "active": "80b5f7147c335c7e",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Learn/Udemy/Fundamentals of Network Engineering.md",
-    "Learn/Udemy/attachments/SourceCodeExamples.zip",
-    "Learn/Udemy/attachments/IP-TCP-UDP-TLS+Slides.odp",
-    "Learn/Udemy/attachments/IP-TCP-UDP-TLS+Slides.pptx",
-    "Learn/Udemy/attachments/SNI.pptx",
-    "Learn/Udemy/attachments/DNS-Slides.odp",
-    "Learn/Udemy/attachments/DNS-Slides.pptx",
-    "Learn/Udemy/attachments/Fundamentals+of+Networking+Engineering.odp",
-    "Learn/Udemy/attachments/Fundamentals+of+Networking+Engineering.pptx",
-    "Learn/Udemy/attachments/Sockets,+Connections+and+Queues.pptx",
-    "Learn/Udemy/attachments/Sockets,+Connections+and+Queues.odp",
-    "Personal/Distributed Systems/thinking in distributed systems book/Untitled.md",
-    "Personal/Interview Prep/Bash/Linux upskill challenge.md",
-    "Personal/Interview Prep/Sad Servers/Day 1.md",
-    "Personal/Resume/Work done.md",
-    "Personal/Distributed Systems/thinking in distributed systems book/03. Fault Tolerance.md",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/thinking-in-layers.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/failure-classification.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/failure-handling.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/ecommerce-process.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/process.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/service-orchestration.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/failure-tolerance.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/state-and-transitions.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/01. Introduction.md",
-    "Personal/Distributed Systems/thinking in distributed systems book/02. System models, order and time.md",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/lamport-clocks.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/attachments/clock-drift.png",
-    "Personal/Distributed Systems/thinking in distributed systems book/00. Thinking in Distributed Systems.md",
-    "Personal/Distributed Systems/thinking in distributed systems book/00. Preface.md",
-    "Personal/Distributed Systems/Old/02. Distributed Systems and Computer networking.md",
-    "Personal/Distributed Systems/Old/01. Introduction.md",
-    "Personal/Talks/CNCF Hyderabad 28th June 2025.md",
-    "Personal/Vibe Coding/Claude Code/Remotion Claude.md.md",
-    "one2n/ravenmail/LLama Model Deployment.md",
-    "one2n/ravenmail/Increase rootvolu.md",
-    "one2n/ravenmail/Clickhouse.md",
-    "one2n/ravenmail/Typosquatting.md",
-    "one2n/ravenmail/keycloak config.md",
-    "one2n/ravenmail/cloudflare warp.md",
-    "one2n/ravenmail/Cloudwatch Agents.md",
-    "Personal/Ravenmail interviw.md",
-    "one2n/ravenmail/Go.md",
-    "one2n/ravenmail/Resources.md",
-    "one2n/ravenmail/Sagemaker Inferentia.md",
-    "Products/One2N Hackathon/03. Flow.canvas",
-    "Personal/Monthly Targets/Untitled.canvas",
-    "Personal/2025/Goals.canvas",
-    "Misc/Untitled.canvas",
-    "Misc/Untitled 1.canvas",
-    "Misc/Untitled 2.canvas",
+    "Personal Stuffs/Personal/Interview/What to ask?.md",
+    "Personal Stuffs/Personal/Interview/Base14.md",
+    "Personal Stuffs/Personal/Interview/Headout.md",
+    "Personal Stuffs/Personal/Interview Prep/K8s/Core Arch.md",
+    "Personal Stuffs/Personal/Interview Prep/K8s/Autoscaling.md",
+    "attachments/Core Arch.png",
+    "attachments",
+    "Personal Stuffs/Personal/Interview Prep/K8s/pod to pod.md",
+    "Personal Stuffs/Personal/Interview Prep/K8s/K8s networking.md",
+    "Personal Stuffs/Personal/Interview Prep/K8s/Network Troubleshooting.md",
+    "Personal Stuffs/Personal/Interview Prep/K8s/Node communitation.md",
+    "Personal Stuffs/Personal/Interview Prep/K8s/Pod Creation.md",
+    "Personal Stuffs/Personal/Interview Prep/K8s/kubeproxy.md",
+    "Personal Stuffs/Personal/Interview Prep/K8s/attachments/Node communitation.png",
+    "Personal Stuffs/Personal/Interview Prep/K8s/attachments/K8s networking.png",
+    "Personal Stuffs/Personal/Interview Prep/K8s/attachments/pod to pod-3.png",
+    "Personal Stuffs/Personal/Interview Prep/K8s/attachments/pod to pod-2.png",
+    "Personal Stuffs/Personal/Interview Prep/K8s/attachments/pod to pod-1.png",
+    "Personal Stuffs/Personal/Interview Prep/K8s/attachments/pod to pod.png",
+    "Personal Stuffs/Personal/Interview Prep/K8s/attachments",
+    "Personal Stuffs/Personal/Interview Prep/RCA",
+    "Personal Stuffs/Personal/Interview Prep/Troubleshooting",
+    "Personal Stuffs/Personal/Interview Prep/Docker",
+    "Personal Stuffs/Personal/Interview Prep/Untitled.md",
+    "Personal Stuffs/Personal/Interview Prep/CICD",
+    "Personal Stuffs/Personal/Interview Prep/Terraform",
+    "Personal Stuffs/Personal/Interview Prep/Cloud",
+    "Personal Stuffs/Personal/Interview Prep/CN",
+    "Personal Stuffs/Personal/Interview Prep/OS",
+    "Personal Stuffs/Personal/Interview/attachments/Linkrunner-20250904141745744.webp",
+    "Personal Stuffs/Personal/Interview/attachments/Emergent-20251008183801163.webp",
+    "Personal Stuffs/Personal/Interview/LinkrunnerPrep.excalidraw.md",
+    "Personal Stuffs/Personal/Interview/Linkrunner.md",
+    "Personal Stuffs/Personal/Interview/Amo.md",
+    "Personal Stuffs/Personal/Interview/Multiplier.md",
+    "Personal Stuffs/Personal/Interview/Abnormal AI.md",
+    "Personal Stuffs/Personal/Interview/SuperJoin AI.md",
+    "Personal Stuffs/Personal/100x/prompts/n8n prompts.md",
+    "Personal Stuffs/Personal/100x/04. Web 3.md",
+    "Personal Stuffs/Personal/Interview/AI Coding Checklist.md",
+    "Personal Stuffs/Personal/Untitled 1.md",
+    "Personal Stuffs/SadServers/3. Command Line Murders.md",
+    "Personal Stuffs/OSS/Olake.md",
+    "Personal Stuffs/Personal/Interview/One2N.md",
+    "Personal Stuffs/SadServers/2. Sakatoon.md",
+    "Personal Stuffs/Personal/100x/attachments/05. Lovable-33.png",
+    "Personal Stuffs/Personal/2025/Goals.canvas",
+    "Personal Stuffs/Products/One2N Hackathon/03. Flow.canvas",
+    "Personal Stuffs/Personal/Monthly Targets/Untitled.canvas",
+    "Personal Stuffs/Misc/Untitled.canvas",
+    "Personal Stuffs/Misc/Untitled 1.canvas",
+    "Personal Stuffs/Misc/Untitled 2.canvas",
     "one2n/ravenmail/Architecture Diagrams/Untitled.canvas"
   ]
 }
